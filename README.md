@@ -1,7 +1,7 @@
-<h1>Hi there,</h1>
+<h1>Hi there, :relaxed: </h1>
 
 <h2>
-:relaxed: Meu nome é João Victor, tenho 21 anos e sou um Desenvolvedor Front-End. Digamos que sou que está apaixonado pela tecnologia,
+Meu nome é João Victor, tenho 21 anos e sou um Desenvolvedor Front-End. Digamos que sou que está apaixonado pela tecnologia,
 confesso que por um tempo eu deixei essa paixão de lado. Mas, como dizem por aí, nunca é tarde demais para seguir os nossos sonhos, né?
 <br> <br>
 Atualmente tenho estudado programação dentro do Curso DevClub (Rodolfo Mori). Meu maior interesse é me desenvolvedor como Developer Front-End.
@@ -27,3 +27,8 @@ Atualmente tenho estudado programação dentro do Curso DevClub (Rodolfo Mori). 
 <a href="https://www.instagram.com/joaov3ct0r_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
