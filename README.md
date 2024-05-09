@@ -1,4 +1,4 @@
-<img src="./PROGRAMAÇÃO/JOÃO VICTOR S.jpg"" title="github-logo-banner" alt="github-logo-banner" width="100%" height="100%" />
+<img src="./" title="github-logo-banner" alt="github-logo-banner" width="100%" height="100%" />
 
 ## Hi there, :relaxed:
 <h3>
