@@ -7,7 +7,7 @@ confesso que por um tempo eu deixei essa paixão de lado. Mas, como dizem por a�
 Atualmente tenho estudado programação dentro do Curso DevClub (Rodolfo Mori). Meu maior interesse é me desenvolvedor como Developer Front-End.
 </h2>
 
-<h3 align="left">Lingugagens e Tecnologias:</h3>
+<h3 align="left">Linguagens e Tecnologias:</h3>
 <p align="left">
 <img src="https://github.com/JoaoV3ct0r/JoaoV3ct0r/assets/84537076/287aad02-f684-4bb0-8cfc-40c105c9c450" alt="HTML5" width="40" height="40"/>
 <img src="https://github.com/JoaoV3ct0r/JoaoV3ct0r/assets/84537076/a0e07811-ecdd-4ca8-9a6a-a357d42997c6" alt="CSS3" width="40" height="40"/>
