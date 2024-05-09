@@ -17,15 +17,17 @@ Atualmente tenho estudado programação dentro do Curso DevClub (Rodolfo Mori). 
 
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=joaov3ct0r&theme=dark&locale=pt_BR&mode=weekly" alt="GitHub Streak" /></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaov3ct0r&show_icons=true&theme=transparent)
+
 <br>
-
-
 
 <h3 align="left">Conecte-se a mim:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/joaov3ct0r-dev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/joaov3ct0r_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joaov3ct0r-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/joaov3ct0r_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 </p>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
