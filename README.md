@@ -1,5 +1,3 @@
-<img src="./" title="github-logo-banner" alt="github-logo-banner" width="100%" height="100%" />
-
 ## Hi there, :relaxed:
 <h3>
 Meu nome é João Victor, tenho 21 anos e sou um Desenvolvedor Front-End. Digamos que sou que está apaixonado pela tecnologia,
